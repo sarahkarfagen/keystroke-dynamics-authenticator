@@ -89,3 +89,7 @@ $\mu_j$ — среднее время из эталонного профиля.
 * **Storage:** LocalStorage API
 * **Math:** Статистический анализ (Standard Deviation, Euclidean Distance)
 * **Deployment:** GitHub Pages (Static site)
+
+---
+
+_Всё может ещё много раз поменяться в процессе разработки..._
